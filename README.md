@@ -1,0 +1,1 @@
+## I created this directory and these notes for my own use, but decided to make it public in case someone else finds it helpful :)
